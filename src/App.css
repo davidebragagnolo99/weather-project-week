@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.main {
+  background: url(assets/img/cielo-con-nuvole-bianche.jpg);
+  background-size: cover;
+}
